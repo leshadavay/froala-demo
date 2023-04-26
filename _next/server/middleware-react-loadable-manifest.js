@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"index.js -> froala-editor/js/plugins.pkgd.min.js":{"id":"index.js -> froala-editor/js/plugins.pkgd.min.js","files":["static/chunks/node_modules_froala-editor_js_plugins_pkgd_min_js.js"]},"index.js -> react-froala-wysiwyg":{"id":"index.js -> react-froala-wysiwyg","files":["static/chunks/node_modules_react-froala-wysiwyg_index_js.js"]}}
